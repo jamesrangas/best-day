@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Special Day ^^</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <img src="teacher.jpeg" alt="Teacher" class="teacher-jpg">
+            <h1>Happy Teachers' Day! 💐</h1>
+            <p class="message">
+                 Thank you for guiding us, inspiring us, and always making us happy.❤️🥳
+            </p>
+            
+        </div>
+    </div>
+</body>
+</html>
